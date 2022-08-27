@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ATM Simulation 
-description: a project with a background image
+description: a project to demonstrate the working of an A.T.M
 img: assets/img/3.jpg
 importance: 2
 category: work

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ShopCart
-description: a project that redirects to another website
+description: An e-commerce website
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
