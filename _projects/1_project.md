@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Car purchase recommender
-description: a project to recommend cars
+description: A project to recommend cars
 img: assets/img/12.jpg
 importance: 1
 category: work
