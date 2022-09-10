@@ -2,14 +2,12 @@
 layout: page
 title: Car purchase recommender
 description: A project to recommend cars
-img: assets/img/12.jpg
+img: assets/img/home.png
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This web application involves a page that accepts input regarding the car features from the user. The user is expected to enter the car company name and can then select various the criterion for their search based on mileage, fuel type, seating capacity and transmission. Based on the specified filters the search will be performed and the data would be retrieved from a website . The scraped data can be stored in a CSV file, an Excel spreadsheet, or a database It scrapes details about the various cars available in the market from the carwaale.com website. The project also features a web application built using Flask that allows the user to get car recommendations based on selected filters.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

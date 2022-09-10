@@ -15,12 +15,13 @@
       institution: St Joseph Engineering College, Mangalore
       year: 2023
       description:
-        - CGPA 9.04 
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - CGPA 9.04
+        - Secured 84% 
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
     - title: 12th
       institution: Mount Carmel Central School, Mangalore
       year: 2019
